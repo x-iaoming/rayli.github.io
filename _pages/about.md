@@ -28,7 +28,7 @@ Schools!
 
 Work!
 ------
-  I have worked as a machine learning research assistant in Dark Reactions Lab with Prof. Sorelle Friedler throughout my undergraduate. My research is on applied machine learning in predicting chemical reactions outcomes and explaining machine learning models with interpretability methods. <br/>
+  I have worked as a machine learning research assistant in Dark Reactions Lab with Prof. Sorelle Friedler throughout my undergraduate. My research is on applied machine learning in predicting chemical reactions outcomes and explaining machine learning models with interpretability methods. <br/> <br/>
   In the indsutry, I spent a summer as a software engineer intern at Tripli.com building backend data pipelines for finding the best travel deals.
 
 Experiences!
