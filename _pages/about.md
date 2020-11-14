@@ -18,9 +18,9 @@ Updates!
   
 My Personal Interests!
 ------
-  • Sports: I really love playing badminton, tennis, swimming, and biking.<br/>
+  • Sports: My favorite sports are badminton, tennis, swimming, and biking.<br/>
   • Photography: I am using Sony a7 and love taking scenery and events photos.<br/>
-  • Languages: Talk to me in Mandarin, Cantonese, English, French, and Italian.<br/>
+  • Languages: I love learning new languages so you can talk to me in Mandarin, Cantonese, English, French, and Italian ;)<br/>
   
 Schools!
 ------
