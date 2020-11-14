@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "About me"
+title: "Hi! It's Ray!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-Hi! It's Ray!
-------
 
   I grew up in Foshan, China and went to school in Singapore. I am studying Computer Science in the United States now and loving my work. I would describe myself as a free-spirited person who enjoys exploring new knowledge, experiences, and possibilities. I am always happy to meet new friends! 
 
