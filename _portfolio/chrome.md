@@ -1,6 +1,6 @@
 ---
 title: "PeopleSoft Course Schedule Export"
-excerpt: "[Link](https://chrome.google.com/webstore/detail/peoplesoft-course-schedul/oikoejjokalkhgedbkjbfcjdpgemdlnb)<br/>\[CS\]Chrome extension to manage course planning<br/><img src='https://lh3.googleusercontent.com/4_JKaoT_y1pj47keu5-2_gzb2fHyki4bf9Bwk41CheEzKNWy44bQYSKXlRG9ZR3kT2a7-jyLJ-0=w640-h400-e365-rj-sc0x00ffffff'>"
+excerpt: "[Link](https://chrome.google.com/webstore/detail/peoplesoft-course-schedul/oikoejjokalkhgedbkjbfcjdpgemdlnb)<br/>Chrome extension to manage course planning<br/><img src='https://lh3.googleusercontent.com/4_JKaoT_y1pj47keu5-2_gzb2fHyki4bf9Bwk41CheEzKNWy44bQYSKXlRG9ZR3kT2a7-jyLJ-0=w640-h400-e365-rj-sc0x00ffffff'>"
 collection: portfolio
 ---
 • [Link](https://chrome.google.com/webstore/detail/peoplesoft-course-schedul/oikoejjokalkhgedbkjbfcjdpgemdlnb)
