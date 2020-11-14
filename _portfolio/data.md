@@ -1,6 +1,6 @@
 ---
 title: "Covid-19 Travel Policy Map"
-excerpt: "Visualization of travel policy for every state<br/><a>Project Link</a href="https://x-iaoming.github.io/map/"><br/>Status: Completed<br/><img src='/images/Screen Shot 2020-11-14 at 2.03.10 PM.png' width="50%" height="50%">"
+excerpt: "Visualization of travel policy for every state<br/>[Project Link](https://x-iaoming.github.io/map/)<br/>Status: Completed<br/><img src='/images/Screen Shot 2020-11-14 at 2.03.10 PM.png' width="50%" height="50%">"
 collection: portfolio
 ---
 
