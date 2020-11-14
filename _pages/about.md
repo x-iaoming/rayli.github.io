@@ -26,6 +26,10 @@ Schools!
   <br/><br/>
   My alma mater includes Foshan Huaying School in China and Ngee Ann Secondary School and St. Joseph's Insitution in Singapore. 
 
+Experiences!
+------
+  At Haverford College, I am the Captain of Club Badminton team and ex Board Member of the International House. I am also a student photographer and used to be a visual designer for the Alumni Office.
+
 Work!
 ------
   I have worked as a machine learning research assistant in Dark Reactions Lab with Prof. Sorelle Friedler throughout my undergraduate. My research is on applied machine learning in predicting chemical reactions outcomes and explaining machine learning models with interpretability methods. 
@@ -37,8 +41,3 @@ Tech stack!
   • Languages: Python, C++, Matlab, SQL, Racket, Java, Javascript<br/>
   • Tools: AWS, Django, Nginx, Numpy <br/>
   • Modeling: Option-pricing, Portfolio optimization <br/>
-
-Experiences!
-------
-  At Haverford College, I am the Captain of Club Badminton team and ex Board Member of the International House. I am also a student photographer and used to be a visual designer for the Alumni Office.
-
