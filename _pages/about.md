@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Ray Li's Website"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,7 +10,7 @@ redirect_from:
 Hi! It's Ray!
 ------
 
-  I am from Foshan, China and went to schools in Singapore. I am studying Computer Science in the United States now and loving my work. I would describe myself as a free-spirited person who enjoys exploring new knowledge, experiences, and possibilities. I am always happy to meet new friends! 
+  I grew up in Foshan, China and went to school in Singapore. I am studying Computer Science in the United States now and loving my work. I would describe myself as a free-spirited person who enjoys exploring new knowledge, experiences, and possibilities. I am always happy to meet new friends! 
 
 Updates!
 ------
@@ -30,8 +30,15 @@ Schools!
 
 Work!
 ------
-  I have worked as a machine learning research assistant in Dark Reactions Lab with Prof. Sorelle Friedler throughout my undergraduate. My research is on applied machine learning in predicting chemical reactions outcomes and explaining machine learning models with interpretability methods. <br/> <br/>
+  I have worked as a machine learning research assistant in Dark Reactions Lab with Prof. Sorelle Friedler throughout my undergraduate. My research is on applied machine learning in predicting chemical reactions outcomes and explaining machine learning models with interpretability methods. 
+  <br/><br/>
   In the indsutry, I spent a summer as a software engineer intern at Tripli.com building backend data pipelines for finding the best travel deals.
+  
+Tech stack!
+------
+  • Languages: Python, C++, Matlab, SQL, Racket, Java, Javascript<br/>
+  • Tools: AWS, Django, Nginx, Numpy <br/>
+  • Modeling: Option-pricing, Portfolio optimization <br/>
 
 Experiences!
 ------
