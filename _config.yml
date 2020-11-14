@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Ray Li"
-  avatar           : "profile.png"
+  avatar           : "https://media-exp1.licdn.com/dms/image/C4E03AQEHxkS_gAfRsQ/profile-displayphoto-shrink_400_400/0?e=1610582400&v=beta&t=7Ylol6SUuMfooroulovT_EqhcLwWr5sRKaKmcrMvbeg"
   bio              : "Senior CS Major at Haverford College. 4+1 Masters Candidate at Univeristy of Pennsylvania."
   location         : "Haverford, PA"
   employer         :
