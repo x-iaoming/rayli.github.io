@@ -24,7 +24,9 @@ My Personal Interests!
   
 Schools!
 ------
-  My alma mater includes Foshan Huaying School in China and Ngee Ann Secondary School and St. Joseph's Insitution in Singapore. I'm a CS major at Haverford College graduating in 2021. I am also a 2022 Master's Candidate at the University of Pennsylvania through the 4+1 program. 
+  I'm a CS major at Haverford College graduating in 2021. I am also a 2022 Master's Candidate at the University of Pennsylvania through the 4+1 program.
+  <br/><br/>
+  My alma mater includes Foshan Huaying School in China and Ngee Ann Secondary School and St. Joseph's Insitution in Singapore. 
 
 Work!
 ------
