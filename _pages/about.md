@@ -7,7 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
 Hi! It's Ray!
 ------
 
@@ -19,19 +18,20 @@ Updates!
   
 My Personal Interests!
 ------
-  • Sports! I love playing badminton, tennis, swimming, and biking.<br/>
-  • Photography! I am using Sony a7 and love taking scenery and events photos.<br/>
-  • Languages! Talk to me in Mandarin, Cantonese, English, French, and Italian.<br/>
+  • Sports: I really love playing badminton, tennis, swimming, and biking.<br/>
+  • Photography: I am using Sony a7 and love taking scenery and events photos.<br/>
+  • Languages: Talk to me in Mandarin, Cantonese, English, French, and Italian.<br/>
   
 Schools!
 ------
-  My alma mater includes Foshan Huaying School in China, Ngee Ann Secondary School and St. Joseph's Insitution in Singapore. I'm a CS major at Haverford College graduating in 2021. I am also a Master's Candidate at the University of Pennsylvania through the 4+1 program. 
+  My alma mater includes Foshan Huaying School in China and Ngee Ann Secondary School and St. Joseph's Insitution in Singapore. I'm a CS major at Haverford College graduating in 2021. I am also a 2022 Master's Candidate at the University of Pennsylvania through the 4+1 program. 
 
 Work!
 ------
-  I have worked as a machine learning research assistant in Dark Reactions Lab with Prof. Sorelle Friedler throughout my undergraduate. My research is on applied machine learning in predicting chemical reactions outcomes and explaining machine learning models with interpretability methods. I also spent a summer as a software engineer intern at Tripli.com building backend data pipelines for finding the best travel deals.
+  I have worked as a machine learning research assistant in Dark Reactions Lab with Prof. Sorelle Friedler throughout my undergraduate. My research is on applied machine learning in predicting chemical reactions outcomes and explaining machine learning models with interpretability methods. <br/>
+  In the indsutry, I spent a summer as a software engineer intern at Tripli.com building backend data pipelines for finding the best travel deals.
 
 Experiences!
 ------
-  At Haverford College, I am the Captain of Club Badminton team and ex Board Member of the International House. I am also a student photographer and used to be a visual designer for the Alumni Office. During my free time, I enjoy badminton, biking, traveling, and photography.  
+  At Haverford College, I am the Captain of Club Badminton team and ex Board Member of the International House. I am also a student photographer and used to be a visual designer for the Alumni Office.
 
