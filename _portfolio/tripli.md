@@ -4,4 +4,5 @@ excerpt: "Designed backend pipeline and API to power deal explore page<br/><img 
 collection: portfolio
 ---
 [Link](https://tripli.com/deals)
+
 <img src='/images/deals.png' width='50%'>
