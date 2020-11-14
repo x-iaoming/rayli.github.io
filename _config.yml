@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Ray Ruiming Li"
+title                    : "About me"
 title_separator          : "-"
 name                     : &name "Ruiming Li"
 description              : &description "Senior CS Major at Haverford College"
