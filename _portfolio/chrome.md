@@ -5,5 +5,7 @@ collection: portfolio
 ---
 
 • Development: Completed
+
 • Automatically parses course information into recurring Google calendar events.
+
 • Compatible with Haverford and Bryn Mawr College, with plans to officially roll out the tool to over 3,000 students.
